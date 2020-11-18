@@ -11,3 +11,16 @@ C:\Users\Lameck\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculad
 C:\Users\Lameck\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 C:\Users\Lameck\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 C:\Users\Lameck\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Lameck\Desktop\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
